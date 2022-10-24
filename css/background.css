@@ -14,9 +14,9 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  --gradient-color-1: #150030;
-  --gradient-color-2: #6b003b;
-  --gradient-color-3: #0381b3;
+  --gradient-color-1: #22004e;
+  --gradient-color-2: #80006e;
+  --gradient-color-3: #00668f;
   --gradient-color-4: #001d9e;
   z-index: -500;
 }
